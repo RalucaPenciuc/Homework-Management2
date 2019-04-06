@@ -1,0 +1,6 @@
+D:\Documente\ANUL 2\Semestrul 1\Metode Avansate De Programare\LABORATOARE\LAB9\LAB9-2\LAB9-2\bin\Debug\LAB9-2.exe
+D:\Documente\ANUL 2\Semestrul 1\Metode Avansate De Programare\LABORATOARE\LAB9\LAB9-2\LAB9-2\bin\Debug\LAB9-2.pdb
+D:\Documente\ANUL 2\Semestrul 1\Metode Avansate De Programare\LABORATOARE\LAB9\LAB9-2\LAB9-2\obj\Debug\LAB9-2.csprojAssemblyReference.cache
+D:\Documente\ANUL 2\Semestrul 1\Metode Avansate De Programare\LABORATOARE\LAB9\LAB9-2\LAB9-2\obj\Debug\LAB9-2.csproj.CoreCompileInputs.cache
+D:\Documente\ANUL 2\Semestrul 1\Metode Avansate De Programare\LABORATOARE\LAB9\LAB9-2\LAB9-2\obj\Debug\LAB9-2.exe
+D:\Documente\ANUL 2\Semestrul 1\Metode Avansate De Programare\LABORATOARE\LAB9\LAB9-2\LAB9-2\obj\Debug\LAB9-2.pdb
